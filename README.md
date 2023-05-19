@@ -8,7 +8,7 @@ Combine [Create React App](https://github.com/facebook/create-react-app) with [T
 
 Feature:
 
-- Absolute path 🔥
+- Absolute path 🔥 
 - Typesafe
 - Support unit testing
 
